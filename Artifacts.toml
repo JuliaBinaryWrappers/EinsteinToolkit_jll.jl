@@ -1,0 +1,1560 @@
+[[EinsteinToolkit]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d259c07e2ecf328d1b2f0eb6c722e8a2a0ece1f7"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "87398415747c3d79a34ccad0f3fb7d4d287b4bbd18347584a4adb6e4cbfc5309"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39dfb9d209dea61dcd8dcc8db37796f85e5cb467"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "095c74fd6511cc00b494a3785fd4ddcf1569b9923bd8ce5ce525d4ff17e4d1c0"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e9eb53adc299ac1224e0fc95dd150913e7bf74dc"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "4a56b7a7a9257ef10473f9b53ee1e4491fc94c13e981b7b389982ca5e440cc42"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a45e57a68966992b6ba0fe8fa3dffbeecd13dc42"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "376408f089c21a297cc3d2ceac89889570d9c6dc5fdb0496ae44592bb2741281"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1587a1632f6577159a2a1a40bc2ae7572b46dc8b"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "2842f9762808ca9ebbe5a845e6337f837ce5e06e919d2b9891135dd38a655e2d"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6b0652a301f45b45719a2a1317e04160861f438"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "073eae9e572eae20811756b116904929c6bdd043957cb0384cce2fe8572a94d8"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ad1e1f5c04bd1f625c0886d53d7bd722916bddaf"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7e78149b6171f288de857525697b61f4d6aa0d3a4e833b63301653da9b8bd7d6"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran3-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef5f1189157ffcf9f27fab78be32b121b4d4b7cc"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "291ab19018b8978b72cb3c36b23751d3401456cb096de54410eb977436074b19"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran3-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8e95226446857c183ee44b758a3828d4767696b"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "118bfb93d93e5a5becea62982e9f32e52e0e22b9321bcfe2a11fe137e54eff44"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran3-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7fde48d7da2ce35baff0f868e1c586183c58c95"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "87667aadc266dbaadc660e83b6848ec8e345b71e2a0ddc969318caa7e07a02ba"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran3-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f97cc124740d8c2d3364c2f28062165f3ad31f8e"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "ca627f29a351e878a90955083565ea5c5544845166351acfabb275e7cb684886"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "686fbde9a0f90b4654b9c4f10dda18795e052f7b"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "264c5fe7e1ae30d1cf01d4d1d5d31244f8f619b3bd4d5c18f74b9d58970f9044"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "521bbb7a344150b0938fc69e4a46a31e3c844030"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7e940b3b01b16d00b78bce2e20ab6659840d0109127590ad704d84b9da1dadc9"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d16b62d969818dc2ad79d1a480599c27e1b427f6"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "73ec067062fe158eb1a237e00ad3b23239a77ea933aabbd37f73da38bc420439"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "396010b73ed0b0ac1ae0ed0f429708762c3a8359"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f4410f0938867f32171e017309ab27e007775ecbea965734d097fc0f53900778"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b4e9d44589ac089eb8989d6e5fc3c129c4ff07a"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "da4c0e933ca82e5c868d8c84de9aebb12cb917b55a20fd87fd456145e4a27c34"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "61446738ae407a5ac9e4ef86dd98bac6e47ae510"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "50fd14f2048767a99dd4121d1f632a63a498741411e61f0df3e3c7d23fcc6c33"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ad57b1d2755e5c38c2387e31005873f361f21f2"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "efc873c1dc04ecbff7de120be4f10d6cf9fde6af6a64b6a52a074054a6b12c18"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1cac6e761d73046e221c909b947ff5a88d7bc790"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "6d0070f54ca6621c92684cedd2830702f8eb732472ec2d0ce1a309d92d219c89"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran3-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc0cfe8e124ee81c62d596607bff103c726771d7"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "9c35da40dea140a77fa4a12633c6bcf18b6324cca72a95c26869e77ecc4aa13f"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran3-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f62b86a238cfe08b3c093cb30f9057df9b3c07f"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "bc36885ea2f1e087f74be0cfb9050f95c6dd07a97f023c44ca131eca3ecae818"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran3-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f715377800ef766af9e3c77364c043c268b913b5"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "95bf76e4d4cbc23668c2dbf5276392dd2c352b6e957c43c6b3664557afb71840"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran3-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8fd2f973d6e9207ac79a11b2bbc6b9bdbcf707c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "1a25ce2b2245ab843fe15bfb150194d1d24f585024fc63628c80445b0367b3d9"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran3-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "efae6c8ab342b2d00198d7c8f6cc9fa673c33ba4"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "a87464aea9e866cd54b70b97d876b09af2cdadf6e839d00da6ce3cf5abe9ef5c"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran3-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8625f07bb5af753b00b27d1a09ccf010ff97a99d"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7ea43a005686edc67865161a4cad27dfa4f73afc5f484e5f06b7d4d502a47ee5"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1b97032b38bac43e59fff38e3886db263af20d7e"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "2ecbcb1fe31c1eaa930433dbbb6b631488e1b89d45d26a28046fc9534db33f47"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "87297f4cd38240169dca9f5236c7f91585b08fc0"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "ae764c06bc4f8b2bf9c256ff6f897693e7f481671cb6fb2f85b2c0e41d6f0a7f"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c63b8d5d4e5d4b09ac39f5421556e8fd6de2f34"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "5656958298875343f8e1dfc42b2adab5c7eff068cc7855ad551adc5a9dbd598f"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1aeb78be460450266a3998d287adb188e112059f"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "c058d60594b4acab8a63798ac016ee560c6e08359f4d5e7d7a797de8e3d52be1"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45de93c8ec40e2880df82d654f6987912a661e93"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "8bc0804b10bb078f593e69a47aaa044d6b0ce358984c999bc42294fd9e01e8bb"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "86bd6a00098c6a1ed7d1aca32828016814d09d12"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "776defd191d9c449c7eb172f68c5a0426a32e6d7b6e0426cd6ed28a2bfc8c112"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57b20842a89e03a8ea446defe04db531d46684f8"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "a2d7bf074bc0f374746bd052963ef31d55c6e596ab4ea48f0a867c4a8ca65b71"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c2976b16529e9153e54cf56cf49d688538ead37c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "17e4bc14bc13adf9b0a3d45480d782cb82fac05ebadb962bafd15b3e9c7fc1d7"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6e84df4e17676bc8594c89f80d9ab85fa90cbbdf"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "dbe39070fc684e26779f35be3192b3c45eb30c0a0588f672a05f0452278e1bf3"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f23853e2a66e38b253a770448281205ca087207"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "594418b1a56730f7e0bf262792022be30a9b4ea2392f34eac7ed716311241e60"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1fc20258dbaf03e4394603657384f6efbddf393c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7e714f68e94945f6a00fd687afdf937b6a91d4f9811c4bbf42f7b823caee5998"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d2608789912a044433b4704520d5ab074b81bc4e"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "1d9f7007f4cd4ff5475a78efd7f5217271f91846450b2686551c1b388b52bb1d"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran3-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d7aba869edbd6c6e8513664dca4a648ce105c359"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "365717f1a24f2e6647b652b2b4464232b8ba441509251cd2cadca4d468db9d1c"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran3-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b77f4c268ff4999dc0bb27e3333f66f79eae834c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "3b6c62ff3972a749580e6983cdf0d2931674bbeb70148b26623fd4100d253ef5"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran3-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0871f58465253d647f9c5b41dff5c72b3e99c4c9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "0966d30b8b98afcc45e6f9085604551df958121f27c807de1968e029c455b9a4"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran3-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc4af083960f40201f3643ca4b5782ee5c5a12d4"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "ea08a2b9c9754972cde8f9ec1d8daf16dd45c0b0a906d60c1c12c632c644b39b"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran3-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37ee95235977d3adf5fc2a0810f4c6abf2974bdf"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f06b2f9495454c08917e1bbe87e232b9043514ab35706f34f6b61f7d464a6faa"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran3-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "86bdf153843ddad24bf9606c18840bd8f5428761"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "0d4b6cc2c6564fc185e9b55b8f2b3b408b8bd632170f9948921006ac772bb332"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8576a90ed8339d52b228b2d4d495185994a0512e"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "20ae79bd29ca4219ca5ec2a4a6b0917c7edde6593283a1b14fa0eb8ea345494e"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5a826894b776a7b1e8c7643ac2c5dbdb41f541a0"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "2fb0e9cbca675fc9d7d80e1b9bc8837eb41f77607c507922a7d6b9bc66e1a431"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd37a677ceb54722863d8d996de978dbb2296baf"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "ddad10d108df64801f9faf18df5f747d4fac4b2737d53daeba5aa4da9d6935bc"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5229222265088ce69757fa59881bed69efcaa990"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7cf07591520a1b9ece4f55a01ebf9efdeed522df430ef1b3f5c1bdfc8d532644"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02f18baa0c976f85c5dc66d856fe516ac02a6d25"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "6053f733ea44f813db8389c7642e47926e55de058739a77dac67b6c82f902280"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ce49e5c2e0c963143f423c809da4a1845fafff1"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "c6fe069fb677dfccfd95913ea6af7ae21fccfdae0fe5793e1cfc5ed393dbd6ef"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36bfc88b379917519b7e5c690702e5a78e8aba73"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7ea8fc58459ff5c6adc80bfb668cca89987351ddfb5c7b614f39b02cedf5ced4"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f0bc73ad71903a3a49181460cdfbc3199c23bd9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "694dd565f8918f9248851642706ee45e97548b8ec3fe8bf1e871423c0e94a750"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7bb13a40700544c89a1a9002dbb15f67d61cbb48"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "80640d30ab7d1cc2f4edc67f472e8c4c9b37340317f96e512f839085a4d41c49"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fbde2b22343b940f683b18c7d5dedf37e9fe469"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f0f0b3dfe03bf5cc820d544df164588c4cb9c81a45da6a01ba882c3724728de4"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d84b48a747c3fe91ee7ae9a19dc519ac5f8803ae"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f84518ba2ba3e4f4cc16ba55fefa7983968047b2cd03d347d587fe63c2cca7fa"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.i686-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29790492b05ca8ecc27d03956a547fd00ee28809"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "a9730dafe23f0a909c515da958b5812e78bac3655887f94c0f970ce9b6857fd4"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60b002b49e298bca10ddbdf16aed7642309e5647"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "074f01d38d9103841a100dd55d20abad8b6860922f4359fb974d56a66c04f6a9"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "971aca0681ecf25e91cf8ce0c372984bac49fdc9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "5f9a36bafc6250fc5e1978167271e9bf8d4a7cde16f330db007dae9051333414"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70b6246920725b2539ebd074d11046386eb4be16"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "897ff5db9c65a9330650b9ca954085740b1b3c94f0f619e5d6ba27407fe0b0ae"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84bfca9880fb36d1db168c85eccf02220ec1f2c4"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "a831147d7bd703e0a5ee25efde617becc7fa9d0e9663d1bc6bc33b6be810616e"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef35188571da7033e1b94ac90265c22da7de4fc6"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "6a13103ad094fa375836092b6eae66cc0a48e876df67d52b8c1b4e90a40754e0"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7d80be60966674fa62a6a4219df369ab4617f2f4"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "5c56771ae361b202693613dd26fd16285da5ae78aa1e17cd99af2e74df3a3b60"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.riscv64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "831b3928c99610b94a005a581a2baabead196185"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "25f2a9b40e5e9b57f2670b8d0548d8f70383f78d52c17915ba0c02e6335664b9"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.riscv64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "753e69f5bec30fc4eb4da5e23006ab4c9f5d6fb9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "b726928d99c8328c22d8c08c47c5159acf7d95d13391636ed638cb0e0aca331a"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.riscv64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35f933ed1dafc88b787aaeb6fe75d038ffb09e50"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "3cc0ee820e8b761a8730ec92b9b2c8e19cde46e1d1b2f4a442e7cc2590022ad2"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.riscv64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[EinsteinToolkit]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7704b94a3f266b4e0a3337de1bba7cb13a8f35c6"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "0d69098bb60ffb38a877fc0412ae87b6866e15f87fb1ff782728ab50016b7d67"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.riscv64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[EinsteinToolkit]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c3f34d2efcb04528bfcf58a40855f35d551c87d"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "2aad8a619ee75858f66504455ef48283b9493dfdf37efa02e407babbe110056a"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.riscv64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3686aff149cb5b57336194d0375c8baf1104c560"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "avx2"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "9aa5ed012db60d0e9ee052a49128dd939d6905a81d3cc15dc874fa8a441cdd74"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx03-mpi+mpich-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb97aa66043bbab322545d8dfd236d4b2ab49738"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "x86_64"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "44b0e5ff7e8bc9e8ce2709c5129d1534b7d41e6f356b3aa7e0c70fa65a9f56bf"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx03-mpi+mpich-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d5e30ebc72d9e4df7c0c549d3ecfb990acb67819"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "avx2"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "a339a8465acf7a8a8f6e4a53257ca7ae357701faeaa9a585bdab574876f17b91"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx03-mpi+mpitrampoline-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5424e5ec49f656941ad7b7abcc30d482f81a2762"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "x86_64"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7cf5b4466d1e4c1c0e21d078fe4e37ff6b50e6508eb5f423f6c56c544f7ed3f4"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx03-mpi+mpitrampoline-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1cbf20a1087cf8e8fc4f7e77ac5f8ccee51bf38a"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "avx2"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "708fd9bea8ba47f934d920a58e2a24095ecca7a0b0631c4891f8594bdefd88e3"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx03-mpi+openmpi-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e666d5ff8c380a9888ac4b8365e0608d931a7587"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "x86_64"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "067275e62d19cc84d1bbc6f6d586de3bc919ae90b256030d8d773051f997588b"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx03-mpi+openmpi-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78ed3798c93b5ae06b3a6a90a8aa41b3813d170b"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "avx2"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f00990d14167f906c9d85cc012dc64641e4575a3397283a3266b8a9668972469"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx11-mpi+mpich-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b39489efd19f658ec7986ef2cbc5368a074e386"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "x86_64"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "761b88775bc4b797464cf3dc84b76d53823ed3106c3a7e6d36cab8bcc25181fe"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx11-mpi+mpich-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8284a591aa0ac930f38138850f510b362637688c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "avx2"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "d42ed2a294b338511d0f2d3ac48d3f529f4ffed9851a9b3cf3f1c1bd1c01f1b0"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx11-mpi+mpitrampoline-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8435cd8b2cc88a2a9d6717a862e9cf0de2668576"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "x86_64"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "4cc4802866a445644e65971426590094654a9da46ed3b520b947cf659008375b"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx11-mpi+mpitrampoline-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfcc3da16fe932745f39380e2d9bfe0ddf2c136d"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "avx2"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "e0d744b151d4746f1ff350fd16050a7b1cf7b61f5e6354133090ee739a60a32a"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx11-mpi+openmpi-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c74990996980abdca91a8fc170ba12f2cf957b2"
+lazy = true
+libc = "glibc"
+libgfortran_version = "3.0.0"
+march = "x86_64"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "99a7e82ff3e098983365594464faaa0849f4d835f325a511e85ef621673b4350"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran3-cxx11-mpi+openmpi-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c60f0118f708f5f15de988547dd3ede13abf297a"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx2"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "849c03107f651c392ad0087c3bc4af3bd85b8d38f6389b043e0ebf07267a8b55"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpich-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b19cf0e9342dca99ea9465954f8e6c0eec831895"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx512"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "07096ef27c2c948f6135deb34bd94a7ff165bf1ffe6ba023ec26e400aa66662c"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpich-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6ae4368afbc977271042c18c702d44a4cd56853"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "x86_64"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "a324683b03197825a36d95cc8d59fa3da2a0d99675ef7eab1a3f0e535d0b63c0"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpich-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9aa170933db962705c18b6dfea5514549cfa216e"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx2"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "8e67a59a345f0af1ddf70ff7e9d8380550af66686e8468dc0a5d4ecfbe109230"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2049e0d0c8772ade6f3fbdfdff0798eea3c501ff"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx512"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "c0ee8389bd6d464d6c74c871c9ceb30c34af8265968f5091daa9ef76aaa42f67"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "864e5aa10a79396b4dbb18123c6af2df70dc0154"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "x86_64"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "3db5e71f789a5b56c17065f460e8dfe8b48ee3dede50346b0c958eaed6355243"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa4aa3b84abbf2892f076fe71228a7541dccf18f"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx2"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "1e3ff2e51b6a954e6c7ae14667499c6b6451c3b6f8ab0ace41252728f9e32565"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+openmpi-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ddc704a2186e0dc1865b23e033cb008ca462880"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx512"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "d8a4c6628727c0154ad73956dfdf65016592d2ce74496e314306c856f8b0b678"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+openmpi-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1274f156afb25059f3e6e2ada9e8357e6286c679"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "x86_64"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "6bb0dc229a6e8043063b227dfddafb8d10ae343ded1cd72d99d192b7cfd94b97"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx03-mpi+openmpi-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "488bc6260fb63010b52aba28e7690775c92fd0e5"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx2"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "c66036eb96e3bb93644937358324b65a7ad998b2aa8e4bed7d383c69a5ea0176"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpich-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "153ed72707d6ab5133ec16547cc5c7db1384ceba"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx512"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "0b2f9d9bf2c9ecc2f917f2159b0b8d29d4b9a991519d724e9d6d065c91fc7148"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpich-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f30f4e9eb3af3417c011864d1307d20724a045a9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "x86_64"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f142324a9765c052d3eaed4a71e0fb3dccf6ebb50dd751481a355771de46fb0c"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpich-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ebfc81baddac5f15cb70789628c9117177fb874"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx2"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "8ce4243a9699d5ee58021d676d0b225ddd37fa49d14e00454e2e7d5e755f11cf"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ca73d337b84227c81635269617e8c239f0183b1"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx512"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "0fd1cdbfd6191b8358538116a4934531a1615790cbf5dc15fe1fc39e98db47c3"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5e0c6b16a66a7bb0b19200e6431bf41ac1efad1"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "x86_64"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7c552c7ab87f504efc4ea8e4424b9dea5acb1992d0f3d13e4a44da57e8c7f149"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41e22f221d82deeaf489dd8059f66bb6b53af717"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx2"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "421c05e26188701884fe520652393ac857c6a7f9897bc0c6a0b7fce0c0baab69"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+openmpi-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "903013a8710828654aaf5ef36addfcac043216db"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "avx512"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "67f7b83503c17ed293817a7616b1daae525e7935983d0d500a52957632aaff1e"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+openmpi-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d2ead5595b54a5d2bc96bd8840ac046ac04056d"
+lazy = true
+libc = "glibc"
+libgfortran_version = "4.0.0"
+march = "x86_64"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "76495e1fb87f82622d5881535a11663e4aec24780800fdf78a7670b4bcaa2de0"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran4-cxx11-mpi+openmpi-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2051063e710257e9cead762b32a7d59acd4faca6"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx2"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "003138a2e89271e16eed65e59542f0e1e451be8150f17da5baf4e48074c983e2"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57a1fd96df3e18130afe61ba22e1a1c61395c9a9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx512"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "cc90062340f0188ace26d0198c3cacfff13b28c5470aeff1ea3b98b2c3b3ac75"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "06bac67971a5fb50b7b11641ff57a3e279df54a8"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "x86_64"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "af6966dfcfa934cc5e6eb4023f30a177054722352ca05bca0f6f6fa1640f8305"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b27d482570f02dff9a4d167a8d97d8fb1100c44"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx2"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "119ccff5a031013d093a3f2d14ede65c306868584defa6b4f5cbabb16da80b33"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c0dde78f9ef18acefc3d24029a1ec9d278d3782"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx512"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "2a779a035e2924533615a91c42fcc8197ab2ecbdc9e7710817422f06933e9c76"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d244f65d72b85cb2d47bf5ee21e0572462e8c470"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "x86_64"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f15a89ade6b66cf6dae3bec3e172ae043165d838d87cbfe18f0dda429c1323da"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3c113677f7706f310a5657df5bd616652891014e"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx2"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "b17c199363b64f92b68ca416d417134aab2032dafddfc8ae4fdc894593c75e94"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2139f31a69c63ae83fabb4a8561e0f90cbeb6268"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx512"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "81f63b03d4d7fe864b1de0abfa231d4874e09af245da961ba00cbb6155be9f2a"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "97a779aee9a3643ba0fa59e84cf9db97091de861"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "x86_64"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "3e877ecad666fe747701615ce997e4a567d8421caaf135d3ecb957795443b3ec"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c4cd59182f6dee15721e4b13cb2675f1ca796383"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx2"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "ecf3009325f5d58019fd58c27ae5ba4bc196cbe7894c4dd1b35f1d707f34ff04"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7abc3a559344b9d06d58b208d8d7632fc0775fb4"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx512"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "f5359235ec1533755788defa54ef06b0ab4760ed1ff6ac1e0e1fa107cecab345"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84648a32805b9678d8329a4d9905c9c965ddf47b"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "x86_64"
+mpi = "mpich"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "64cb7eac72fded8efe04a3de7fca73b6a2a630cec4afedc0526aa9f19896fc3a"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ecdafa5355af3e8a15c9fa0d07106ef7ec6e4027"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx2"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "51314b347620877088d5d4c281c4dc80b84516bfd86ab1ac790667a4d101cadd"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c3256057f0323a7bd2da057361ddd66470afc907"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx512"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "38c528e12b3be5b185c07e44a8b123b6fb61e1ba94c16a35dac9f2c283f0940a"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "424304426670a24fb420c73096214dd8526f8788"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "x86_64"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "7fcd99191fd4df68e1023e3d00cfe333376e77501a9d55455097839c8d63069d"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline-march+x86_64.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ae88c0f814581c9ce0a4541045d3c31f1ad55df"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx2"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "74c82d7e340abdf41b4a10fc3cf467a31391730b47d61dc68edddf21157d2be4"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi-march+avx2.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "825447ff5b6afd98d6818ae64aa9a10151181b98"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "avx512"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "566bc73c757a79ebf490870d9eafe4422d99f646562b4db36061f1618b3f4522"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi-march+avx512.tar.gz"
+[[EinsteinToolkit]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10970f8b8fbb1123682c861fbf92bad39e950af9"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+march = "x86_64"
+mpi = "openmpi"
+os = "linux"
+
+    [[EinsteinToolkit.download]]
+    sha256 = "e4daa6a2ea7378bec97985a28b1e0138e8b6bf70e077e124f45be79bb0e07460"
+    url = "https://github.com/JuliaBinaryWrappers/EinsteinToolkit_jll.jl/releases/download/EinsteinToolkit-v2024.11.0+0/EinsteinToolkit.v2024.11.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi-march+x86_64.tar.gz"
